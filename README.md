@@ -51,7 +51,7 @@ To use AI-Fuzzer, follow these steps:
 1. **Run the script with the target URL as an argument:**
 
    ```bash
-   python fuzzer.py http://example.com
+   python ai-fuzzer.py http://example.com
    ```
 
    Replace `http://example.com` with the URL of the web application you have permission to test.
